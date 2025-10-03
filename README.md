@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi there 👋, I’m Anirban
 
-<!--
-**abbbhucho/abbbhucho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Cybersecurity Enthusiast | System Designer | Researcher-in-the-making
 
-Here are some ideas to get you started:
+I love building at the intersection of AI, secure authentication, and system design. My work explores:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Kerberos + FIDO2 authentication — novel security protocols & plugin design
+
+🤖 AI/ML — from deep learning to lightweight retrieval-based assistants
+
+🐧 Linux & Systems — Dockerized environments, private networks, and low-level tooling
+
+🛠️ Tech Stack
+
+Languages: C++, Python, C, Bash
+
+AI/ML: PyTorch, Scikit-learn, CatBoost
+
+Systems & Security: Kerberos V5, PKINIT, FIDO2, Docker, Linux internals
+
+Tools: Git, Jupyter, Colab, VS Code
+
+📌 Featured Projects
+
+🔹 Kerberos + FIDO2 Plugin – Extending Kerberos authentication with hardware tokens
+🔹 AI Shell Helper – Natural language → secure Bash commands
+🔹 Bird Sound Classifier (BirdCLEF 2024) – Deep learning + spectrogram classification
+
+📈 Current Goals
+
+✍️ Publishing research on FIDO2 + Kerberos authentication
+
+📚 Mastering advanced ML interview prep
+
+🔎 Exploring AI-powered secure systems
+
+🌐 Connect with me
+
+[💼 LinkedIn](https://www.linkedin.com/in/anirban-bhattacharya-dtu/)
+
+[📧 Email](gentlewithanirban@gmail.com)
+
+🖥️ Portfolio / Blog
+ 
+
+⭐ “Where authentication meets intelligence.”
