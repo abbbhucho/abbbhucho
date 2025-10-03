@@ -1,7 +1,7 @@
 Hi there 👋, I’m Anirban
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbbhucho&show_icons=true&theme=radical)
-
+-->
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbbhucho&layout=compact&theme=radical)
@@ -26,7 +26,7 @@ I love building at the intersection of AI, secure authentication, and system des
 
 Languages: C++, Python, C, Bash
 
-AI/ML: PyTorch, Scikit-learn, CatBoost
+AI/ML: PyTorch, Scikit-learn, Tensorflow, Pandas, Numpy
 
 Systems & Security: Kerberos V5, PKINIT, FIDO2, Docker, Linux internals
 
