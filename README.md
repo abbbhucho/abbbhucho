@@ -1,4 +1,4 @@
-![## Hi there 👋, I’m Anirban](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=435&lines=Hi+I'm+Anirban;AI+%26+Cybersecurity+Enthusiast;System+Designer+%7C+Researcher)
+![Hi there 👋, I’m Anirban](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=435&lines=Hi+there+I'm+Anirban;AI+%26+Cybersecurity+Enthusiast;System+Designer+%7C+Researcher)
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbbhucho&show_icons=true&theme=radical)
 -->
