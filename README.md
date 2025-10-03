@@ -2,16 +2,17 @@ Hi there 👋, I’m Anirban
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
---
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
---
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
---
+---
 
-🚀 AI & Cybersecurity Enthusiast | System Designer | Researcher-in-the-making
+### 🚀 AI & Cybersecurity Enthusiast | System Designer | Researcher-in-the-making
 
 I love building at the intersection of AI, secure authentication, and system design. My work explores:
 
@@ -21,7 +22,7 @@ I love building at the intersection of AI, secure authentication, and system des
 
 🐧 Linux & Systems — Dockerized environments, private networks, and low-level tooling
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Languages: C++, Python, C, Bash
 
@@ -31,21 +32,20 @@ Systems & Security: Kerberos V5, PKINIT, FIDO2, Docker, Linux internals
 
 Tools: Git, Jupyter, Colab, VS Code
 
-📌 Featured Projects
+### 📌 Featured Projects
 
 🔹 Kerberos + FIDO2 Plugin – Extending Kerberos authentication with hardware tokens
 🔹 AI Shell Helper – Natural language → secure Bash commands
 🔹 Bird Sound Classifier (BirdCLEF 2024) – Deep learning + spectrogram classification
 
-📈 Current Goals
+### 📈 Current Goals
 
-✍️ Publishing research on FIDO2 + Kerberos authentication
 
 📚 Mastering advanced ML interview prep
 
 🔎 Exploring AI-powered secure systems
 
-🌐 Connect with me
+### 🌐 Connect with me
 
 [💼 LinkedIn](https://www.linkedin.com/in/anirban-bhattacharya-dtu/)
 
