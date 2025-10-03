@@ -1,10 +1,10 @@
 Hi there 👋, I’m Anirban
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbbhucho&show_icons=true&theme=radical)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbbhucho&layout=compact&theme=radical)
 
 ---
 
