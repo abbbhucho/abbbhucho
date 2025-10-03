@@ -1,5 +1,16 @@
 Hi there 👋, I’m Anirban
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+--
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+--
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+--
+
 🚀 AI & Cybersecurity Enthusiast | System Designer | Researcher-in-the-making
 
 I love building at the intersection of AI, secure authentication, and system design. My work explores:
